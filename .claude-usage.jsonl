@@ -1,0 +1,6 @@
+{"type":"call","ts":1795426396,"task":"approve-pipeline","model":"opus","model_id":"claude-opus-5"}
+{"type":"call","ts":1795429201,"task":"diagnose","model":"haiku","model_id":"claude-haiku-4-5"}
+{"type":"call","ts":1795431786,"task":"diagnose","model":"haiku","model_id":"claude-haiku-4-5"}
+{"type":"usage","ts":1795431809,"task":"diagnose","model":"haiku","tokens":{"input":59988,"output":1597,"cost":0.07479100000000001}}
+{"type":"call","ts":1795443844,"task":"gen-design-doc","model":"opus","model_id":"claude-opus-5"}
+{"type":"call","ts":1795444358,"task":"approve-pipeline","model":"opus","model_id":"claude-opus-5"}
